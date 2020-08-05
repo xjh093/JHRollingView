@@ -4,6 +4,12 @@ up rolling animation
 
 ---
 
+# What
+
+![img](https://github.com/xjh093/JHRollingView/blob/master/Aug-05-2020%2011-06-16.gif)
+
+---
+
 # Example
 
 ```
